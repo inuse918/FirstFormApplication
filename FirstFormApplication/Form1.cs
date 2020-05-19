@@ -10,7 +10,7 @@ using System.Windows.Forms;
 
 namespace FirstFormApplication
 {
-    public partial class Form1 : Form
+    public partial class Form1 : Form //partial 클래스로 분할하여 작성함
     {
         public Form1()
         {
